@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{BA2E46A6-860E-167A-E539-CE973E66F4B3}") = "Ball and Cube", "Assembly-UnityScript.unityproj", "{3C103D01-5C2A-4B35-5F51-7B901A1F52B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C103D01-5C2A-4B35-5F51-7B901A1F52B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C103D01-5C2A-4B35-5F51-7B901A1F52B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C103D01-5C2A-4B35-5F51-7B901A1F52B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C103D01-5C2A-4B35-5F51-7B901A1F52B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
